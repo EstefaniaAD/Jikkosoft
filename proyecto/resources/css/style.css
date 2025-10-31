@@ -1,0 +1,16 @@
+.cabecero{  
+    background-color:#0075A2
+}
+
+.alert {
+    display: none;
+    float: right;
+   }
+   
+.alert.visible {
+    display: block;
+}
+
+.azul{  
+    color:#0075A2
+}
